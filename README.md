@@ -39,3 +39,6 @@ iniicair node index.js
    ```bash
    git clone [https://github.com/SEU_USUARIO/sharingan-cloner.git](https://github.com/SEU_USUARIO/sharingan-cloner.git)
    cd sharingan-cloner
+
+
+Este projeto foi criado para fins educacionais e de estudo de engenharia reversa. O uso desta ferramenta para clonar sites sem autorização e infringir direitos autorais é de inteira responsabilidade do usuário. Respeite o trabalho dos desenvolvedores originais.
